@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 1rem;
+  width: 90%;
+  margin: auto;
+}
+
+#meaning {
+  padding: 3rem;
+  margin-block: auto;
+  font-size: larger;
+}
+
+ul {
+  margin: 2.5rem;
+}
+
+ul#emojis li {
+  display: inline;
+  padding: 1rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
